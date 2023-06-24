@@ -1,8 +1,17 @@
 {
   "name": "kreativschnittstelle/kirby-cachebusting",
+  "type": "kirby-plugin",
+  "version": "1.0.1",
   "description": "Cachebusting for assets",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Matthias Schaffer",
+      "email": "matthias@kreativschnittstelle.de"
+    }
+  ],
   "require": {
-      "php": ">=7.4"
+    "php": ">=7.1.0",
+    "getkirby/composer-installer": "^1.1"
   }
 }
