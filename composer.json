@@ -1,0 +1,8 @@
+{
+  "name": "kreativschnittstelle/kirby-cachebusting",
+  "description": "Cachebusting for assets",
+  "license": "MIT",
+  "require": {
+      "php": ">=7.4"
+  }
+}
